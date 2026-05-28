@@ -1,0 +1,101 @@
+﻿customer_id,customer_name,email,region,join_date
+1,Miles-Sutton,miles.stn@example.com,North,2023-12-20
+2,"Reid, Ferguson and Sanchez",reid.ferguson.sanchez@example.com,North,2024-10-19
+3,Nelson-Schaefer,nelson.schaefer@example.com,South,2025-04-12
+4,"Robinson, Nguyen and Tate",robinson.nguyen.tate@example.com,South,2023-12-08
+5,Underwood LLC,underwood.llc@example.com,North,2024-09-01
+6,Jones-Gentry,NULL,East,NULL
+7,"Edwards, Rios and Foster",edwards.rios.foster@example.com,West,2025-10-05
+8,"Ellis, Baker and Wright",NULL,North,2025-01-04
+9,"Baker, Richards and Hurst",baker.richards.hurst@example.com,East,2024-08-31
+10,Robinson-Bright,robinson.bright@example.com,South,2024-11-24
+11,Davis-Williams,davis.williams@example.com,South,2024-01-19
+12,Burton Ltd,burton.ltd@example.com,East,2024-09-17
+13,"Brown, James and Ferrell",brown.james.ferrell@example.com,North,2024-12-09
+14,Maddox-Valencia,maddox.valencia@example.com,North,2023-11-03
+15,"Le, Maldonado and Herrera",le.maldonado.herrera@example.com,East,2024-05-20
+16,"Peterson, Carter and Moore",peterson.carter.moore@example.com,East,2023-10-28
+17,"Liu, Baker and Mason",liu.baker.mason@example.com,South,2024-03-12
+18,"Gaines, Harrell and Evans",gaines.harrell.evans@example.com,East,2025-03-05
+19,"Lynch, Hernandez and Farmer",lynch.hernandez.farmer@example.com,West,2024-12-17
+20,"Sellers, George and Burns",sellers.george.burns@example.com,West,2024-01-20
+21,Koch-Decker,koch.decker@example.com,South,2024-06-20
+22,Brown PLC,brown.plc@example.com,West,2023-12-26
+23,Dennis Inc,dennis.inc@example.com,North,2025-06-07
+24,"Cannon, Anderson and Alvarez",cannon.anderson.alvarez@example.com,South,2024-12-26
+25,Baker PLC,baker.plc@example.com,South,2024-09-18
+26,Hickman Ltd,hickman.ltd@example.com,North,2025-04-13
+27,Marquez Group,marquez.group@example.com,East,2025-03-30
+28,"Brooks, Lam and Hayes",brooks.lam.hayes@example.com,South,2024-05-05
+29,Brown Inc,brown.inc@example.com,North,2025-01-24
+30,"Hall, Robinson and Jones",hall.robinson.jones@example.com,East,2025-02-27
+31,Perez Inc,perez.inc@example.com,West,2025-08-23
+32,Jones-Young,jones.young@example.com,West,2025-03-28
+33,Lewis-Anderson,lewis.anderson@example.com,East,2025-10-21
+34,"Johnston, Sanchez and Kennedy",johnston.sanchez.kennedy@example.com,West,2024-09-06
+35,Davis Ltd,davis.ltd@example.com,South,2024-09-24
+36,Henderson-Owens,henderson.owens@example.com,North,2025-05-14
+37,Nunez Ltd,nunez.ltd@example.com,West,2024-01-10
+38,Powell LLC,powell.llc@example.com,North,2025-07-08
+39,Wright and Sons,wright.sons@example.com,North,2024-12-15
+40,Taylor-White,taylor.white@example.com,East,2024-10-19
+41,Baxter Inc,baxter.inc@example.com,West,2024-10-04
+42,"Garcia, Pearson and Fernandez",garcia.pearson.fernandez@example.com,East,2023-11-06
+43,House and Sons,house.sons@example.com,North,2024-03-03
+44,Tucker-Lewis,tucker.lewis@example.com,East,2024-09-01
+45,Martin Inc,martin.inc@example.com,East,2024-08-24
+46,House-Glover,house.glover@example.com,North,2024-06-03
+47,Horton-Cross,horton.cross@example.com,West,2025-06-25
+48,"Stanley, Tucker and Lee",stanley.tucker.lee@example.com,North,2024-04-12
+49,Riley PLC,riley.plc@example.com,East,2023-12-12
+50,"Edwards, Williams and Woods",edwards.williams.woods@example.com,East,2025-10-09
+51,"Moore, Yu and Miller",moore.yu.miller@example.com,West,2024-03-18
+52,Larson Ltd,larson.ltd@example.com,West,2025-08-25
+53,Powell PLC,powell.plc@example.com,East,2024-05-04
+54,"Wheeler, Harvey and Barnes",wheeler.harvey.barnes@example.com,East,2025-01-21
+55,"Mills, Donovan and Harris",mills.donovan.harris@example.com,South,2025-05-04
+56,Allen-Foster,allen.foster@example.com,East,2025-03-30
+57,"Evans, Stewart and Walton",evans.stewart.walton@example.com,South,2023-12-21
+58,Ellis PLC,ellis.plc@example.com,South,2024-01-11
+59,Medina PLC,medina.plc@example.com,West,2024-05-18
+60,Mahoney Inc,mahoney.inc@example.com,East,2025-09-07
+61,Wood and Sons,wood.sons@example.com,North,2024-09-30
+62,"Warner, Carr and Archer",warner.carr.archer@example.com,East,2025-03-16
+63,"Smith, Montoya and Evans",smith.montoya.evans@example.com,West,2025-03-24
+64,Mcmillan and Sons,mcmillan.sons@example.com,West,2024-05-18
+65,Preston Ltd,preston.ltd@example.com,West,2024-12-28
+66,Nelson PLC,nelson.plc@example.com,North,2024-04-06
+67,"Cooper, Watts and Farrell",cooper.watts.farrell@example.com,East,2024-11-21
+68,King-Odonnell,king.odonnell@example.com,South,2023-12-04
+69,Walters LLC,walters.llc@example.com,East,2023-11-29
+70,Cook and Sons,cook.sons@example.com,East,2025-03-03
+71,Martin-Ramos,martin.ramos@example.com,South,2025-04-26
+72,Hoffman-Rodriguez,hoffman.rodriguez@example.com,West,2025-09-10
+73,"Mckee, Gardner and Davenport",mckee.gardner.davenport@example.com,South,2025-01-20
+74,"Hernandez, Anderson and Parker",hernandez.anderson.parker@example.com,South,2025-09-23
+75,Nolan and Sons,nolan.sons@example.com,South,2025-04-07
+76,Estrada LLC,estrada.llc@example.com,West,2025-06-22
+77,"Henson, Russell and Oliver",henson.russell.oliver@example.com,South,2024-02-23
+78,Hancock and Sons,hancock.sons@example.com,West,2025-09-09
+79,Johnson-Doyle,johnson.doyle@example.com,East,2024-07-10
+80,Pham-Shields,pham.shields@example.com,South,2025-07-16
+81,Adams Ltd,adams.ltd@example.com,South,2024-01-17
+82,Brennan-Garrison,brennan.garrison@example.com,North,2024-04-15
+83,Velasquez Group,velasquez.group@example.com,East,2024-07-23
+84,Hoover-Savage,hoover.savage@example.com,South,2024-04-16
+85,Keller Group,keller.group@example.com,West,2024-07-06
+86,Lin-Rasmussen,lin.rasmussen@example.com,West,2024-05-29
+87,May-Ross,may.ross@example.com,East,2025-08-11
+88,"Rivera, Johnson and Wiley",rivera.johnson.wiley@example.com,South,2024-05-15
+89,Carpenter LLC,carpenter.llc@example.com,East,2023-11-24
+90,Carlson LLC,carlson.llc@example.com,West,2025-05-13
+91,Graham-Joyce,graham.joyce@example.com,South,2024-01-23
+92,Lam-Lee,lam.lee@example.com,South,2023-11-29
+93,"Graham, Meyer and Drake",graham.meyer.drake@example.com,South,2025-04-11
+94,"Bentley, Mclaughlin and Gonzalez",bentley.mclaughlin.gonzalez@example.com,South,2024-09-24
+95,Rush LLC,rush.llc@example.com,East,2025-02-21
+96,Alvarado-Martinez,alvarado.martinez@example.com,North,2025-09-24
+97,Hunter-Estrada,hunter.estrada@example.com,West,2024-07-05
+98,Terry-Spencer,terry.spencer@example.com,North,2024-03-23
+99,Ortega-Gray,ortega.gray@example.com,West,2025-05-29
+100,Gilbert LLC,gilbert.llc@example.com,East,2024-09-05
