@@ -48,6 +48,6 @@ The Tableau dashboard includes two pages:
 [[warehouse-dashboard-project]](https://public.tableau.com/views/warehouse-dashboard-project/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Screenshots
-<img width="1701" height="1228" alt="image" src="https://github.com/user-attachments/assets/4e8d8f48-40e3-477f-bd1e-a777476528f7" />
-<img width="1738" height="1196" alt="image" src="https://github.com/user-attachments/assets/05dd18f0-4db3-44e3-b53a-9d9063b81bd3" />
+![Sales Dashboard](images/sales_dashboard.png)
 
+![Operations Dashboard](images/operations_dashboard.png)
